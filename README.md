@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo Montecoral</h1>
 <h3 align="center">My goal is to develop both frontend and backend solutions that provide value to users and businesses, using best practices in development and design.</h3>
 
-- 👨‍💻 All of my projects are available at [https://mntcrl.netlify.app](https://mntcrl.netlify.app)
+- 👨‍💻 My website [https://mntcrl.netlify.app](https://mntcrl.netlify.app)
 
 - 📫 How to reach me **guillermo.montecoral@gmail.com**
 
@@ -36,7 +36,3 @@
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillermomontecoral&show_icons=true&locale=en&layout=compact" alt="guillermomontecoral" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guillermomontecoral&show_icons=true&locale=en" alt="guillermomontecoral" /></p>
